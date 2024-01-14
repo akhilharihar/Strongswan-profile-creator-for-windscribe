@@ -1,0 +1,12 @@
+{
+	"uuid": "",
+	"name": "",
+	"type": "ikev2-eap",
+	"remote": {
+		"addr": ""
+	},
+	"split-tunneling": {
+		"block-ipv4": "true",
+		"block-ipv6": "true"
+	}
+}
